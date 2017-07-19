@@ -1,0 +1,39 @@
+body{
+  background-color: #000010;
+  height:620px;
+}
+
+#back{
+  height: 100%;
+  margin: 5%;
+  border: 5px solid #f4511e;
+  background-image: url(/image/stackOfBooks.jpg);
+  background-size: cover;
+}
+
+.moduleRight {
+  font-family: 'Josefin Sans', sans-serif;
+  height: 430px;
+  width:300px;
+  background-color: #black;
+  margin-top: 50px;
+  background: linear-gradient(45deg, transparent 15px, #000010 0);
+  color:white;
+  padding: 0px 20px;
+}
+
+#ourLogoBox {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#ourLogoBanner {
+  font-size: 120px;
+  font-weight:lighter;
+  color:#f4511e;
+}
+
+.form-group{
+  color:black;
+  font-size: 20px;
+  font-family: arial;
+}
